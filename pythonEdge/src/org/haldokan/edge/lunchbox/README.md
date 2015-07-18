@@ -1,1 +1,1 @@
-todo
+files in this folder are based on material in the Python reference manual, and on assembling snippets from talks on youtube.
